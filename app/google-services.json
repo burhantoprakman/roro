@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979640461389",
+    "firebase_url": "https://unroro-15b4e.firebaseio.com",
+    "project_id": "unroro-15b4e",
+    "storage_bucket": "unroro-15b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979640461389:android:292a47daa580000b",
+        "android_client_info": {
+          "package_name": "vavien.agency.liman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979640461389-9vsheccjfrl4dmi0hr8qconkfcn0gbpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vavien.agency.liman",
+            "certificate_hash": "0f1b400a53e33ea7ac7cf085528cb53e3fb5b543"
+          }
+        },
+        {
+          "client_id": "979640461389-b3nr8far188ebg3ef2f0fbj7n763pu3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDswmZc706VItdqqUUq7WtU0d50WHOCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979640461389-b3nr8far188ebg3ef2f0fbj7n763pu3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

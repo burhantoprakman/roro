@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/opacity"
+    android:padding="40dp"
+    android:alpha="1.8"
+    android:orientation="vertical">
+
+    <EditText
+
+        android:id="@+id/update_plaka"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:imeOptions="actionUnspecified"
+        android:inputType="textPassword"
+        android:textColor="@color/white"
+        android:background="@drawable/shapes"
+        android:maxLines="1"/>
+
+    <EditText
+        android:id="@+id/update_namesurname"
+        android:layout_width="match_parent"
+        android:background="@drawable/shapes"
+        android:layout_height="70dp" />
+
+    <EditText
+        android:id="@+id/update_pass"
+        android:background="@drawable/shapes"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        />
+
+    <Button
+        android:id="@+id/update_changebutton"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/shapes"
+        android:text="@string/updateProfile"
+        android:textSize="25sp"/>
+
+</LinearLayout>

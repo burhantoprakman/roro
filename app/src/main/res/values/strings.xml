@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Liman</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_back">Geri</string>
+    <string name="title_notifications">Videos</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="profileFrag_button">Bilgilerimi Guncelle</string>
+    <string name="updateProfile">Bilgileri Kaydet</string>
+    <string name="namesurname">Name and Surname</string>
+    <string name="number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="passwordRepeat">Repeat Password</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="action_sign_in">Üye Girişi</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up">Üye Ol</string>
+    <string name="telefon_no">Telefon Numarası</string>
+
+    <string name="firsttext">1.
+        \nYeni biyometrik kimlik kartları,giriş çıkışları kısıtlayarak sadece yetkili personele geçiş hakkı tanımaktadır.</string>
+    <string name="secondtext">2.
+        \nEl ve araç terminalleri,saha ve rıhtımlarda gerçek zamanda bilgi girişi sağlayabilmek için kullanılmaktadır </string>
+    <string name="thirdtext">3.
+        \nLiman ve çeşitli noktalara yerleştirilmiş 360° derece hareketli 300 adet CCTV kamera ile devamlı gözlem altındadır.
+    </string>
+    <string name="fourtext">4.
+        \nKoyterner Mühür Kontrolü Uygulaması 4 Şubat 2013 tarihi itibari ile limanımızda aktif hale gelmiştir.Bu uyguluma ile dolu
+    konteynerların mühür kontrolleri yapılmakta olup,uluslararası gemi ve liman güvenliği hizmeti sağlanarak uluslararası liman işletmeciliği
+    standartlarına uygun olarak hizmet verilmektedir.</string>
+
+
+
+</resources>
